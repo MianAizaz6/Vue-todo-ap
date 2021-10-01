@@ -26,7 +26,7 @@ export default {
           id:2,
           title:'Learn vuex',
           description:'Learn the Vuex to manage global store management',
-          completed:false,
+          completed:true,
         },
         {
           id:3,
